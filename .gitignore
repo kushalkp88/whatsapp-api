@@ -1,2 +1,17 @@
+# Node modules
 node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS junk files
+.DS_Store
+
+# Session and upload folders (if you don't want to track them)
 session/
+uploads/
